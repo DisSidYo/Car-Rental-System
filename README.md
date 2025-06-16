@@ -54,7 +54,7 @@ This project enables users to:
 ## ☁️ Deployment
 
 Deployed and tested on **AWS Elastic Beanstalk**  
-🔗 [Live Demo URL] *(replace with your actual URL)*
+
 
 ## 🎨 Visual and UX Highlights
 - Modern fonts and clean layout
